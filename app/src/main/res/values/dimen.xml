@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dtpv_yt_arc_size">40dp</dimen>
+    <dimen name="marker_width">3dp</dimen>
+    <dimen name="controls_padding">170sp</dimen>
+</resources>
